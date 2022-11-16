@@ -11,4 +11,4 @@ Transferência,
 
 - Criação do Objeto Cliente
 - Criaçao do Objeto Funcionario
-cada objeto com seus metodos e funções.
+- Cada objeto com seus metodos e funções.
